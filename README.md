@@ -60,6 +60,18 @@ day.csv has the following fields:
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Technologies Used
+- python - version 3.9.13
+- numpy - version 1.22.2
+- pandas - version 1.4.1
+- matplotlib - version 3.5.1
+- seaborn - version 0.11.2
+- sklearn - version 1.1.1
+- statsmodels - version 0.13.2
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+
 ## Conclusions
 
 Equation of best fitting line would be:
@@ -81,17 +93,6 @@ Significant features in predicting the demand for shared bikes:
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
-## Technologies Used
-- python - version 3.9.13
-- numpy - version 1.22.2
-- pandas - version 1.4.1
-- matplotlib - version 3.5.1
-- seaborn - version 0.11.2
-- sklearn - version 1.1.1
-- statsmodels - version 0.13.2
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 
