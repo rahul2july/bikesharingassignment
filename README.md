@@ -79,6 +79,7 @@ Dataset(day.csv) License [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling com
 ## Conclusions
 
 Equation of best fitting line would be:
+
 cnt = 0.1350 + 0.2327 * year - 0.1072 * holiday + 0.5471 * temp - 0.1531 * windspeed + 0.0866 * summer + 0.1323 * winter + 0.0992 * sep - 0.0500 * sun -0.2892 * Light_snow_rain -0.0819 * Misty
 
 Significant features in predicting the demand for shared bikes:
